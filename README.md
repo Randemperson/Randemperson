@@ -1,4 +1,4 @@
-# randemPerson
+# Alfred Tang
 
 Computer Science student focused on building practical software across AR/VR, full-stack apps, and APIs. I am currently seeking software engineering internships where I can contribute fast, learn from strong teams, and ship meaningful features.
 
