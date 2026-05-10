@@ -17,21 +17,16 @@ Computer Science student focused on building practical software across AR/VR, fu
 
 ## Featured Projects
 
-### ARrange (Spectacles AR Minigame Scaffold)
+### Brain 3D (3D tetris game in LensStudio)
 
-- Built a Spectacles Lens project scaffold with a world-anchored bubble menu and a playable Color Sort game
-- Integrated AI feedback flow using Gemini and optional ElevenLabs voice playback via proxy service
-- Focused on modular architecture so additional minigames can be added quickly
+- Built 3D Tetris game in Snapchat Lens Studio for cognitive development.
+- Integrated custom physics and spawning system with colorful tetrinos
+- Focused on spatial design and interactiveness
 
-### Sentiment Analysis API
+### Hacklytics Project3
 
-- Built an API service for text sentiment scoring with clean request/response contracts
-- Practiced endpoint design, testing workflows, and clear documentation
-
-### Hacklytics Project
-
-- Collaborated in a hackathon setting to deliver a working prototype under deadline constraints
-- Contributed to implementation, debugging, and integration across teammates
+- Data visualiser for crisis info across the globe
+- Contributed to data pipelines and tech stack design with Node.js, and API key integration
 
 ## Highlights
 
