@@ -42,9 +42,9 @@ Computer Science student focused on building practical software across AR/VR, fu
 ## Contact
 
 - GitHub: https://github.com/randemPerson
-- LinkedIn: add-your-linkedin-url
-- Email: add-your-email
+- LinkedIn: www.linkedin.com/in/alfred-tang-19a467319
+- Email: atang302@gatech.edu
 
-## Resume
+## Portfolio
 
-If useful, I can also generate a one-page internship resume summary directly from these projects.
+coming soon
